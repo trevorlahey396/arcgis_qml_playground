@@ -17,6 +17,8 @@
 #include "SceneQuickView.h"
 
 #include <iostream>
+#include <fstream>
+#include <string>
 
 #include <QDir>
 #include <QGuiApplication>
@@ -26,6 +28,7 @@
 //--------------------------------------------------------------------------
 
 using namespace Esri::ArcGISRuntime;
+using namespace std;
 
 int main(int argc, char *argv[])
 {
@@ -41,10 +44,22 @@ int main(int argc, char *argv[])
     QGuiApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QGuiApplication app(argc, argv);
 
-    const QString apiKey = QStringLiteral("");
+    string api;
+//    fstream f;
+//    f.open("test.txt", ios::in);
+    ifstream f ("../.env");
+    if (f.is_open()) {
+      getline(f, api);
+      std::cout << "Read api key" << std::endl;
+    } else {
+      std::cout << "Unable to open .env file!" << std::endl;
+    }
+    f.close();
+
+    const QString apiKey = QString::fromStdString(api);
     if (apiKey.isEmpty())
     {
-        qWarning() << "";
+        qWarning() << "Missing API-Key!";
     }
     else
     {

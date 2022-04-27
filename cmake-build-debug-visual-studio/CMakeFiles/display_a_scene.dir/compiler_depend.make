@@ -1060,6 +1060,7 @@ CMakeFiles\display_a_scene.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual 
 CMakeFiles\display_a_scene.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\__msvc_xlocinfo_types.hpp"
 CMakeFiles\display_a_scene.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\clocale"
 CMakeFiles\display_a_scene.dir\main.cpp.obj: "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h"
+CMakeFiles\display_a_scene.dir\main.cpp.obj: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\fstream"
 CMakeFiles\display_a_scene.dir\main.cpp.obj: C:\Qt\5.15.1\msvc2019_64\include\QtCore\QDir
 CMakeFiles\display_a_scene.dir\main.cpp.obj: C:\Qt\5.15.1\msvc2019_64\include\QtCore\qdir.h
 CMakeFiles\display_a_scene.dir\main.cpp.obj: C:\Qt\5.15.1\msvc2019_64\include\QtCore\qfileinfo.h
@@ -1862,6 +1863,8 @@ display_a_scene_autogen\EWIEGA46WW\moc_Display_a_scene.cpp:
 C:\Qt\5.15.1\msvc2019_64\include\QtQml\qjsengine.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt\locale.h":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\fstream":
 
 C:\Qt\5.15.1\msvc2019_64\include\QtCore\QDir:
 

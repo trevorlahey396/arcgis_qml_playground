@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/display_a_scene_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/HAL/Documents/display_a_scene",
+	"CMAKE_SOURCE_DIR" : "C:/Users/HAL/Documents/display_a_scene",
+	"INCLUDE_DIR" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/display_a_scene_autogen/include",
+	"INPUTS" : [ "C:/Users/HAL/Documents/display_a_scene/Resources/AppIcon.png" ],
+	"LOCK_FILE" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/display_a_scene_autogen.dir/AutoRcc_Resources_S5YYZ2ZCNV_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "S5YYZ2ZCNV",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.1/msvc2019_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/display_a_scene_autogen.dir/AutoRcc_Resources_S5YYZ2ZCNV_Used.txt",
+	"SOURCE" : "C:/Users/HAL/Documents/display_a_scene/Resources/Resources.qrc",
+	"VERBOSITY" : 0
+}

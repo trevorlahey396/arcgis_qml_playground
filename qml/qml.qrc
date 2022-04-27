@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+		<file>Display_a_sceneForm.qml</file>
+    </qresource>
+</RCC>

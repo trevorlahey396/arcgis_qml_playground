@@ -1,4 +1,0 @@
-C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/display_a_scene.dir
-C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
-C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
-C:/Users/HAL/Documents/display_a_scene/cmake-build-debug-visual-studio/CMakeFiles/display_a_scene_autogen.dir

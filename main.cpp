@@ -28,7 +28,6 @@
 //--------------------------------------------------------------------------
 
 using namespace Esri::ArcGISRuntime;
-using namespace std;
 
 int main(int argc, char *argv[])
 {
@@ -44,10 +43,8 @@ int main(int argc, char *argv[])
     QGuiApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QGuiApplication app(argc, argv);
 
-    string api;
-//    fstream f;
-//    f.open("test.txt", ios::in);
-    ifstream f ("../.env");
+    std::string api;
+    std::ifstream f ("../.env");
     if (f.is_open()) {
       getline(f, api);
       std::cout << "Read api key" << std::endl;

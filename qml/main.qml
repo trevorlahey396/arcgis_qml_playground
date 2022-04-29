@@ -15,11 +15,16 @@ import QtQuick.Controls 2.2
 import Esri.display_a_scene 1.0
 
 ApplicationWindow {
-    visible: true
-    width: 800
-    height: 600
+  visible: true
+  width: 600
+  height: 800
 
-    Display_a_sceneForm {
-        anchors.fill: parent
-    }
+  Display_a_sceneForm {
+    width: parent.width - 20
+    height: 400
+    anchors.bottom: parent.bottom
+    anchors.bottomMargin: 10
+    anchors.horizontalCenter: parent.horizontalCenter
+  }
+
 }

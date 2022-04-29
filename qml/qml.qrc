@@ -1,6 +1,8 @@
 <RCC>
     <qresource prefix="/qml">
         <file>main.qml</file>
-		<file>Display_a_sceneForm.qml</file>
+        <file>geocode.qml</file>
+        <file>Display_a_sceneForm.qml</file>
+        <file>disappointed_fan.png</file>
     </qresource>
 </RCC>
